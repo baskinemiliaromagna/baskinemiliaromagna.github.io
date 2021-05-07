@@ -1,12 +1,12 @@
 /* SportsPress icons */
 @font-face {
 	font-family: 'sportspress';
-	src:url('https://baskinemiliaromagna.github.io/wp-content/plugins/sportspress/assets/fonts/sportspress.eot?ddphik2');
-	src:url('https://baskinemiliaromagna.github.io/wp-content/plugins/sportspress/assets/fonts/sportspress.eot#iefixddphik2') format('embedded-opentype'),
-		url('https://baskinemiliaromagna.github.io/wp-content/plugins/sportspress/assets/fonts/sportspress.woff2?ddphik2') format('woff2'),
-		url('https://baskinemiliaromagna.github.io/wp-content/plugins/sportspress/assets/fonts/sportspress.ttf?ddphik2') format('truetype'),
-		url('https://baskinemiliaromagna.github.io/wp-content/plugins/sportspress/assets/fonts/sportspress.woff?ddphik2') format('woff'),
-		url('https://baskinemiliaromagna.github.io/wp-content/plugins/sportspress/assets/fonts/sportspress.svg?ddphik2#sportspress') format('svg');
+	src:url('/wp-content/plugins/sportspress/assets/fonts/sportspress.eot?ddphik2');
+	src:url('/wp-content/plugins/sportspress/assets/fonts/sportspress.eot#iefixddphik2') format('embedded-opentype'),
+		url('/wp-content/plugins/sportspress/assets/fonts/sportspress.woff2?ddphik2') format('woff2'),
+		url('/wp-content/plugins/sportspress/assets/fonts/sportspress.ttf?ddphik2') format('truetype'),
+		url('/wp-content/plugins/sportspress/assets/fonts/sportspress.woff?ddphik2') format('woff'),
+		url('/wp-content/plugins/sportspress/assets/fonts/sportspress.svg?ddphik2#sportspress') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

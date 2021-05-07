@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti per Baskin Emilia Romagna	</title>
-	<atom:link href="https://baskinemiliaromagna.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://baskinemiliaromagna.github.io/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>BASKet INclusivo Sezione Territoriale Emilia-Romagna</description>
 	<lastBuildDate>Wed, 05 May 2021 12:59:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
