@@ -1,6 +1,6 @@
 /* Style stylesheet */
 .ssbp-line:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/line.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/line.svg");
     left: 0;
     padding: 5px 8px 0;
     position: absolute;
@@ -29,7 +29,7 @@
 .ssbp--theme-1 .ssbp-line:hover:before,
 .ssbp--theme-1 .ssbp-line:focus:before,
 .ssbp--theme-1 .ssbp-line:active:before{
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/line-hover.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/line-hover.svg");
     left: 50%;
     position: absolute;
     top: 50%;
@@ -110,7 +110,7 @@
 }
 
 .ssbp-line:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/line.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/line.svg");
     left: 0;
     padding: 5px 8px 0;
     position: absolute;
@@ -119,7 +119,7 @@
 }
 
 .ssbp--theme-8 .ssbp-line:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/line-black.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/line-black.svg");
 }
 
 .ssbp--theme-1 .ssbp-line,
@@ -147,7 +147,7 @@
 .ssbp--theme-6 .ssbp-line:before,
 .ssbp--theme-7 .ssbp-line:before,
 .ssbp--theme-9 .ssbp-line:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/line-hover.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/line-hover.svg");
 }
 
 .ssbp--theme-1 .ssbp-line:before,
@@ -200,7 +200,7 @@
 .ssbp--theme-1 .ssbp-line:hover:before,
 .ssbp--theme-1 .ssbp-line:focus:before,
 .ssbp--theme-1 .ssbp-line:active:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/line-hover.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/line-hover.svg");
     left: 50%;
     position: absolute;
     top: 50%;
@@ -218,7 +218,7 @@
 .ssbp--theme-8 .ssbp-line:hover:before,
 .ssbp--theme-8 .ssbp-line:focus:before,
 .ssbp--theme-8 .ssbp-line:active:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/line.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/line.svg");
 }
 .ssbp--theme-1 .ssbp-line+.ssbp-each-share,
 .ssbp--theme-2 .ssbp-line+.ssbp-each-share,
@@ -310,7 +310,7 @@
 
 /* Skype */
 .ssbp-skype:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/skype.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/skype.svg");
     left: 0;
     padding: 5px 8px 0;
     position: absolute;
@@ -319,7 +319,7 @@
 }
 
 .ssbp--theme-8 .ssbp-skype:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/skype-black.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/skype-black.svg");
 }
 
 .ssbp--theme-1 .ssbp-skype,
@@ -347,7 +347,7 @@
 .ssbp--theme-6 .ssbp-skype:before,
 .ssbp--theme-7 .ssbp-skype:before,
 .ssbp--theme-9 .ssbp-skype:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/skype-hover.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/skype-hover.svg");
 }
 
 .ssbp--theme-1 .ssbp-skype:before,
@@ -400,7 +400,7 @@
 .ssbp--theme-1 .ssbp-skype:hover:before,
 .ssbp--theme-1 .ssbp-skype:focus:before,
 .ssbp--theme-1 .ssbp-skype:active:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/skype-hover.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/skype-hover.svg");
     left: 50%;
     position: absolute;
     top: 50%;
@@ -418,7 +418,7 @@
 .ssbp--theme-8 .ssbp-skype:hover:before,
 .ssbp--theme-8 .ssbp-skype:focus:before,
 .ssbp--theme-8 .ssbp-skype:active:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/skype.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/skype.svg");
 }
 .ssbp--theme-1 .ssbp-skype+.ssbp-each-share,
 .ssbp--theme-2 .ssbp-skype+.ssbp-each-share,
@@ -510,7 +510,7 @@
 
 /* Weibo */
 .ssbp-weibo:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/weibo.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/weibo.svg");
     left: 0;
     padding: 5px 8px 0;
     position: absolute;
@@ -519,7 +519,7 @@
 }
 
 .ssbp--theme-8 .ssbp-weibo:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/weibo-black.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/weibo-black.svg");
 }
 
 .ssbp--theme-1 .ssbp-weibo,
@@ -547,7 +547,7 @@
 .ssbp--theme-6 .ssbp-weibo:before,
 .ssbp--theme-7 .ssbp-weibo:before,
 .ssbp--theme-9 .ssbp-weibo:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/weibo-hover.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/weibo-hover.svg");
 }
 
 .ssbp--theme-1 .ssbp-weibo:before,
@@ -600,7 +600,7 @@
 .ssbp--theme-1 .ssbp-weibo:hover:before,
 .ssbp--theme-1 .ssbp-weibo:focus:before,
 .ssbp--theme-1 .ssbp-weibo:active:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/weibo-hover.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/weibo-hover.svg");
     left: 50%;
     position: absolute;
     top: 50%;
@@ -618,7 +618,7 @@
 .ssbp--theme-8 .ssbp-weibo:hover:before,
 .ssbp--theme-8 .ssbp-weibo:focus:before,
 .ssbp--theme-8 .ssbp-weibo:active:before {
-    content: url("/wp-content/plugins/simple-share-buttons-adder/images/weibo.svg");
+    content: url("https://www.baskinemiliaromagna.it/wp-content/plugins/simple-share-buttons-adder/images/weibo.svg");
 }
 .ssbp--theme-1 .ssbp-weibo+.ssbp-each-share,
 .ssbp--theme-2 .ssbp-weibo+.ssbp-each-share,

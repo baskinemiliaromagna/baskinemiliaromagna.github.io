@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ripresa &#8211; Baskin Emilia Romagna</title>
+	<atom:link href="https://www.baskinemiliaromagna.it/tag/ripresa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.baskinemiliaromagna.it/</link>
+	<description>BASKet INclusivo Sezione Territoriale Emilia-Romagna</description>
+	<lastBuildDate>Mon, 10 May 2021 14:00:42 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>https://www.baskinemiliaromagna.it/wp-content/uploads/2020/01/cropped-emilia-romagna-baskin-1000x1000-1-32x32.png</url>
+	<title>ripresa &#8211; Baskin Emilia Romagna</title>
+	<link>https://www.baskinemiliaromagna.it/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ripresa dell&#8217;attività</title>
+		<link>https://www.baskinemiliaromagna.it/2021/05/10/ripresa-dellattivita/</link>
+		
+		<dc:creator><![CDATA[Baskin Emilia Romagna]]></dc:creator>
+		<pubDate>Mon, 10 May 2021 13:55:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[baskin]]></category>
+		<category><![CDATA[eisi]]></category>
+		<category><![CDATA[ente italiano sport inclusivi]]></category>
+		<category><![CDATA[ripresa]]></category>
+		<guid isPermaLink="false">https://www.baskinemiliaromagna.it/?p=481</guid>
+
+					<description><![CDATA[A seguito degli eventi legati alla pandemia COVID-19 i campionati della stagione sportiva 2019/2020 sono stati interrotti senza assegnazione dei titoli (Comunicato Ufficiale n. 9 06/05/2020 dell’allora ENSI) e quelli della stagione 2020/2021 non sono stati disputati. L’EISI (Ente Italiano Sport Inclusivi, nuova denominazione dell’ex ENSI) sta organizzando la ripresa per la stagione 2021/2022, compatibilmente [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p align="justify">
+A seguito degli eventi legati alla pandemia COVID-19 i campionati
+della stagione sportiva 2019/2020 sono stati interrotti senza
+assegnazione dei titoli (Comunicato Ufficiale n. 9 06/05/2020
+dell’allora ENSI) e quelli della stagione 2020/2021 non sono
+stati disputati.</p>
+<p align="justify">L’<a href="https://www.eisi.it/" name="EISI" target="_blank" rel="noopener">EISI</a>
+(Ente Italiano Sport Inclusivi, nuova denominazione dell’ex
+ENSI) sta organizzando la ripresa per la stagione 2021/2022,
+compatibilmente con l’evoluzione della pandemia.</p>
+<p align="justify">Le
+squadre già affiliate e le realtà interessata al <a href="https://baskin.it/" name="Baskin" target="_blank" rel="noopener">Baskin</a>
+possono contattare il Coordinatore della Sezione Territoriale
+all’indirizzo mail <a href="mailto:baskinemiliaromagna@gmail.com">baskinemiliaromagna@gmail.com</a>.</p>
+<h1 align="center">STAY TUNED!</h1>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
