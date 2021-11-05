@@ -94,7 +94,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://www.baskinemiliaromagna.it/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"389f6e1599"};
+var userProfileL10n = {"user_id":"0","nonce":"25d50a32fe"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
