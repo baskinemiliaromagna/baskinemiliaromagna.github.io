@@ -5,11 +5,11 @@
 	<title>Login &lsaquo; Baskin Emilia Romagna &#8212; WordPress</title>
 	<meta name="robots" content="noindex, follow">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://www.baskinemiliaromagna.it/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://www.baskinemiliaromagna.it/wp-includes/css/buttons.min.css?ver=5.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://www.baskinemiliaromagna.it/wp-admin/css/forms.min.css?ver=5.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://www.baskinemiliaromagna.it/wp-admin/css/l10n.min.css?ver=5.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://www.baskinemiliaromagna.it/wp-admin/css/login.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.baskinemiliaromagna.it/wp-includes/css/dashicons.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://www.baskinemiliaromagna.it/wp-includes/css/buttons.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://www.baskinemiliaromagna.it/wp-admin/css/forms.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://www.baskinemiliaromagna.it/wp-admin/css/l10n.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://www.baskinemiliaromagna.it/wp-admin/css/login.min.css?ver=5.8.2" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://www.baskinemiliaromagna.it/wp-content/uploads/2020/01/cropped-emilia-romagna-baskin-1000x1000-1-32x32.png" sizes="32x32">
@@ -84,17 +84,17 @@ var pwsL10n = {"unknown":"Efficacia della password sconosciuta","short":"Molto d
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-08-14 11:54:07+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"it"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s è deprecata sin dalla versione %2$s! Usa %3$s al suo posto. Prova a scrivere del codice più inclusivo."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script type="text/javascript" src="https://www.baskinemiliaromagna.it/wp-admin/js/password-strength-meter.min.js?ver=5.8.1" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://www.baskinemiliaromagna.it/wp-admin/js/password-strength-meter.min.js?ver=5.8.2" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="https://www.baskinemiliaromagna.it/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
 /*  */
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 /*  */
 </script>
-<script type="text/javascript" src="https://www.baskinemiliaromagna.it/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
+<script type="text/javascript" src="https://www.baskinemiliaromagna.it/wp-includes/js/wp-util.min.js?ver=5.8.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"25d50a32fe"};
+var userProfileL10n = {"user_id":"0","nonce":"3301503170"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
@@ -104,7 +104,7 @@ var userProfileL10n = {"user_id":"0","nonce":"25d50a32fe"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-08-14 11:54:07+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"it"},"Your new password has not been saved.":["La tua nuova password non è stata salvata."],"Hide":["Nascondi"],"Show":["Visualizza"],"Confirm use of weak password":["Conferma l'uso della password debole."],"Hide password":["Nascondi password"],"Show password":["Mostra password"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script type="text/javascript" src="https://www.baskinemiliaromagna.it/wp-admin/js/user-profile.min.js?ver=5.8.1" id="user-profile-js"></script>
+<script type="text/javascript" src="https://www.baskinemiliaromagna.it/wp-admin/js/user-profile.min.js?ver=5.8.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
