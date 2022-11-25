@@ -1,5 +1,5 @@
-# www.baskinemiliaromagna.it
+# baskinemiliaromagna.github.io (formerly www.baskinemiliaromagna.it)
 
-This repository is for the site [www.baskinemiliaromagna.it](https://www.baskinemiliaromagna.it/).
+This repository is for the site [baskinemiliaromagna.github.io](https://baskinemiliaromagna.github.io).
 
-The site is actually served by [Netlify](https://www.netlify.com/) from the branch [www](https://github.com/baskinemiliaromagna/baskinemiliaromagna.github.io/tree/www) on [GitHub](https://github.com/).
+The site is served by [GitHub Pages](https://pages.github.com/) from the branch [main](https://github.com/baskinemiliaromagna/baskinemiliaromagna.github.io/tree/main) on [GitHub](https://github.com/).
