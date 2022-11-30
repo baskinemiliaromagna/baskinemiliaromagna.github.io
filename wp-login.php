@@ -2,7 +2,7 @@
 <html lang="it-IT">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Login &lsaquo; Baskin Emilia Romagna &#8212; WordPress</title>
+	<title>Accedi &lsaquo; Baskin Emilia Romagna &#8212; WordPress</title>
 	<meta name="robots" content="noindex, follow">
 <link rel="stylesheet" id="dashicons-css" href="https://baskinemiliaromagna.github.io/wp-includes/css/dashicons.min.css?ver=6.1.1" type="text/css" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://baskinemiliaromagna.github.io/wp-includes/css/buttons.min.css?ver=6.1.1" type="text/css" media="all">
@@ -38,7 +38,7 @@
 			</div>
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Ricordami</label></p>
 			<p class="submit">
-				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Login">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Accedi">
 									<input type="hidden" name="redirect_to" value="http://www.baskinemiliaromagna.it/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
@@ -73,7 +73,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 <script type="text/javascript" src="https://baskinemiliaromagna.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="zxcvbn-async-js-extra">
 /* <![CDATA[ */
-var _zxcvbnSettings = {"src":"http:\/\/www.baskinemiliaromagna.it\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"https:\/\/baskinemiliaromagna.github.io\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://baskinemiliaromagna.github.io/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
@@ -104,7 +104,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://baskinemiliaromagna.github.io/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"55884ce443"};
+var userProfileL10n = {"user_id":"0","nonce":"6f665c777c"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">( function( domain, translations ) {
