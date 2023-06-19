@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Palestra Comunale Budrio Archivi - Baskin Emilia Romagna</title>
+	<atom:link href="https://baskinemiliaromagna.github.io/campi/palestra-comunale-budrio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://baskinemiliaromagna.github.io/campi/palestra-comunale-budrio/</link>
+	<description>BASKet INclusivo Sezione Territoriale Emilia-Romagna</description>
+	<lastBuildDate>Sat, 09 May 2020 13:30:47 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://baskinemiliaromagna.github.io/wp-content/uploads/2020/01/cropped-emilia-romagna-baskin-1000x1000-1-32x32.png</url>
+	<title>Palestra Comunale Budrio Archivi - Baskin Emilia Romagna</title>
+	<link>https://baskinemiliaromagna.github.io/campi/palestra-comunale-budrio/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+		<a href="https://www.google.com/maps/place/44%C2%B032%2719%22N+11%C2%B031%2755%22E/@44.53871822291948,11.532195077074345,15z" target="_blank"><div id="sp_openstreetmaps_container" style="width: 100%; height: 320px"></div></a>
+	<script>
+	// position we will use later
+	var lat = 44.53871822291948;
+	var lon = 11.532195077074345;
+	// initialize map
+	map = L.map('sp_openstreetmaps_container', { zoomControl:false }).setView([lat, lon], 15);
+	// set map tiles source
+			  		L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		  attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+		  maxZoom: 18,
+		}).addTo(map);
+		// add marker to the map
+	marker = L.marker([lat, lon]).addTo(map);
+	map.dragging.disable();
+	map.touchZoom.disable();
+	map.doubleClickZoom.disable();
+	map.scrollWheelZoom.disable();
+  </script>
+				<item>
+		<title>ASDD Faventia Baskin vs SBF Baskin Ferrara B</title>
+		<link>https://baskinemiliaromagna.github.io/partite/asdd-faventia-baskin-vs-sbf-baskin-ferrara-b/</link>
+		
+		<dc:creator><![CDATA[Baskin Emilia Romagna]]></dc:creator>
+		<pubDate>Sun, 19 Apr 2020 11:30:25 +0000</pubDate>
+				<guid isPermaLink="false">https://baskinemiliaromagna.github.io/?post_type=sp_event#038;p=215</guid>
+
+					<description><![CDATA[<p>L'articolo <a rel="nofollow" href="https://baskinemiliaromagna.github.io/partite/asdd-faventia-baskin-vs-sbf-baskin-ferrara-b/">ASDD Faventia Baskin vs SBF Baskin Ferrara B</a> proviene da <a rel="nofollow" href="https://baskinemiliaromagna.github.io/">Baskin Emilia Romagna</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L'articolo <a rel="nofollow" href="https://baskinemiliaromagna.github.io/partite/asdd-faventia-baskin-vs-sbf-baskin-ferrara-b/">ASDD Faventia Baskin vs SBF Baskin Ferrara B</a> proviene da <a rel="nofollow" href="https://baskinemiliaromagna.github.io/">Baskin Emilia Romagna</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>USHAC Carpi vs ASDD Faventia Baskin</title>
+		<link>https://baskinemiliaromagna.github.io/partite/ushac-carpi-vs-asdd-faventia-baskin/</link>
+		
+		<dc:creator><![CDATA[Baskin Emilia Romagna]]></dc:creator>
+		<pubDate>Sun, 19 Apr 2020 09:45:35 +0000</pubDate>
+				<guid isPermaLink="false">https://baskinemiliaromagna.github.io/?post_type=sp_event#038;p=214</guid>
+
+					<description><![CDATA[<p>L'articolo <a rel="nofollow" href="https://baskinemiliaromagna.github.io/partite/ushac-carpi-vs-asdd-faventia-baskin/">USHAC Carpi vs ASDD Faventia Baskin</a> proviene da <a rel="nofollow" href="https://baskinemiliaromagna.github.io/">Baskin Emilia Romagna</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L'articolo <a rel="nofollow" href="https://baskinemiliaromagna.github.io/partite/ushac-carpi-vs-asdd-faventia-baskin/">USHAC Carpi vs ASDD Faventia Baskin</a> proviene da <a rel="nofollow" href="https://baskinemiliaromagna.github.io/">Baskin Emilia Romagna</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Baskin Brothers Budrio vs SBF Baskin Ferrara A</title>
+		<link>https://baskinemiliaromagna.github.io/partite/baskin-brothers-budrio-vs-sbf-baskin-ferrara-a/</link>
+		
+		<dc:creator><![CDATA[Baskin Emilia Romagna]]></dc:creator>
+		<pubDate>Sun, 19 Apr 2020 08:00:12 +0000</pubDate>
+				<guid isPermaLink="false">https://baskinemiliaromagna.github.io/?post_type=sp_event#038;p=213</guid>
+
+					<description><![CDATA[<p>L'articolo <a rel="nofollow" href="https://baskinemiliaromagna.github.io/partite/baskin-brothers-budrio-vs-sbf-baskin-ferrara-a/">Baskin Brothers Budrio vs SBF Baskin Ferrara A</a> proviene da <a rel="nofollow" href="https://baskinemiliaromagna.github.io/">Baskin Emilia Romagna</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L'articolo <a rel="nofollow" href="https://baskinemiliaromagna.github.io/partite/baskin-brothers-budrio-vs-sbf-baskin-ferrara-a/">Baskin Brothers Budrio vs SBF Baskin Ferrara A</a> proviene da <a rel="nofollow" href="https://baskinemiliaromagna.github.io/">Baskin Emilia Romagna</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

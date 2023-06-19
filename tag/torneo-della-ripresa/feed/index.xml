@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://baskinemiliaromagna.github.io/wp-content/uploads/2020/01/cropped-emilia-romagna-baskin-1000x1000-1-32x32.png</url>
@@ -173,9 +173,9 @@
 <p>L'articolo <a rel="nofollow" href="https://baskinemiliaromagna.github.io/2021/10/14/torneo-della-ripresa-baskin-emilia-romagna/">Torneo della Ripresa Baskin Emilia Romagna</a> proviene da <a rel="nofollow" href="https://baskinemiliaromagna.github.io/">Baskin Emilia Romagna</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-3 wp-block-columns">
-<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
-<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns is-layout-flex wp-container-3">
+<div class="wp-block-column is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container">
 <p>Anche per la <strong>Sezione Territoriale Emilia Romagna</strong> è in corso di preparazione il <strong>Torneo della Ripresa di Baskin</strong>. Con ogni probabilità vedrà l&#8217;iscrizione di cinque squadre con la formula del girone di solo andata. La classifica, stilata in base ai criteri del <em>Regolamento Tecnico del Baskin</em>, determinerà <strong>la squadra</strong> che si classificherà alla fase successiva.</p>
 
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://baskinemiliaromagna.github.io/wp-content/uploads/2020/01/cropped-emilia-romagna-baskin-1000x1000-1-32x32.png</url>
@@ -57,7 +57,7 @@
 
 
 
-<div class="is-layout-flex wp-block-buttons">
+<div class="wp-block-buttons is-layout-flex">
 <div class="wp-block-button aligncenter"><a class="wp-block-button__link">SAVE THE DATE!</a></div>
 </div>
 <p>L'articolo <a rel="nofollow" href="https://baskinemiliaromagna.github.io/2022/03/02/campionato-eisi-baskin-si-ricomincia/">Campionato EISI Baskin: si ricomincia!</a> proviene da <a rel="nofollow" href="https://baskinemiliaromagna.github.io/">Baskin Emilia Romagna</a>.</p>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://baskinemiliaromagna.github.io/wp-content/uploads/2020/01/cropped-emilia-romagna-baskin-1000x1000-1-32x32.png</url>
@@ -50,7 +50,7 @@
 
 
 
-<div class="is-content-justification-center is-layout-flex wp-container-1 wp-block-buttons">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-1">
 <div class="wp-block-button"><a class="wp-block-button__link" href="https://www.produzionidalbasso.com/projects/31175/support">SOSTIENICI!</a></div>
 </div>
 
