@@ -2,6 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://baskinemiliaromagna.github.io/</loc>
+		<lastmod>2026-10-08T07:18:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://baskinemiliaromagna.github.io/marche/</loc>
@@ -26,14 +27,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://baskinemiliaromagna.github.io/notizie/</loc>
-		<lastmod>2021-05-05T10:43:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://baskinemiliaromagna.github.io/portale/</loc>
-		<lastmod>2021-07-19T09:03:08+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://baskinemiliaromagna.github.io/cosa-e-il-baskin/</loc>
 		<lastmod>2021-10-14T13:36:55+00:00</lastmod>
 		<image:image>
@@ -52,8 +45,14 @@
 		<lastmod>2022-05-02T16:18:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://baskinemiliaromagna.github.io/archivio/</loc>
-		<lastmod>2022-11-30T11:57:33+00:00</lastmod>
+		<loc>https://baskinemiliaromagna.github.io/archivio-risultati/</loc>
+		<lastmod>2024-02-26T14:13:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://baskinemiliaromagna.github.io/wp-content/uploads/2021/05/Logo_EISI_120x120.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://baskinemiliaromagna.github.io/wp-content/uploads/2021/05/Logo_EISI_120x120.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>https://baskinemiliaromagna.github.io/wp-content/uploads/2021/05/Logo_EISI_120x120.png</image:loc>
 		</image:image>
